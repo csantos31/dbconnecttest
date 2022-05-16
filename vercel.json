@@ -1,0 +1,10 @@
+// 20220515211625
+// https://raw.githubusercontent.com/csantos31/testmysql/main/vercel.json
+
+{
+  "functions": {
+    "api/*.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+  }
+}
